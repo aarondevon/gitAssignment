@@ -1,1 +1,8 @@
 
+list the commands, line-by-line, for Terminal to add, commit, and push these files to GitHub (which would be the commands you entered to get them on GitHub). 
+
+Step 1. echo > git.txt
+Step 2. echo > README.rd
+Step 3. git add . 
+Step 4. git commit -m "Added README and txt file"
+Step 5. git commit -m “Added instructions to txt file”
